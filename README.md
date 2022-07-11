@@ -1,5 +1,5 @@
 # Spicy-Von-Neumann
-This is a simulation of a fictional processor design and a Von Neumann memory architecture using java . This included implementing all hardware components , Data paths and pipelines.
+This is a simulation of a fictional processor design and a Von Neumann memory architecture using java . This includes the imlementation of all hardware components , Data paths and pipelines.
 
 # How to Run:
 
